@@ -16,6 +16,13 @@
   - 计算的本质.epub
   - 重构--改善既有代码的设计.epub
   - 代码的未来.epub
+  - 图解HTTP.epub
+  - 计算机是怎样跑起来的.epub
+  - DesignPatternsExplainedSimply.epub
+  - 你不知道的JavaScript（上卷）.epub
+  - 你不知道的JavaScript（中卷）.epub
+  - 你不知道的JavaScript（下卷）.epub
+  - 深入浅出Node.js.epub
 - 成长
   - 原则.epub
   - 起源：万物大历史.epub
