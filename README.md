@@ -23,10 +23,18 @@
   - 你不知道的JavaScript（中卷）.epub
   - 你不知道的JavaScript（下卷）.epub
   - 深入浅出Node.js.epub
+  - The-Rust-Programming-Language(第2版).epub
+  - 凯文·凯利: 失控--全人类的最终命运和结局.epub
+  - 黑客--计算机革命的英雄(25周年纪念版).epub
+  - 黑客与画家.epub
+  - JustForFun--Linux之父李纳斯自述.epub
+  - 人月神话.epub
+  - 制造开源软件--如何成功运营自由软件项目.epub
 - 成长
   - 原则.epub
   - 起源：万物大历史.epub
   - 重新理解创业.epub
+  - 如何阅读一本书.epub
 - 自然科学
   - 上帝掷骰子吗？-量子物理史话.epub
 
